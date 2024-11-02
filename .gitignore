@@ -1,5 +1,4 @@
 *.xml
 *.pdf
 *.csv
-
-venv
+.venv/
